@@ -3033,7 +3033,7 @@ http://elitex.me:80/RaphaelRech/vo40713013s/10054556
 http://elitex.me:80/RaphaelRech/vo40713013s/112
 #EXTINF:-1 tvg-id="Historychannel.br" tvg-name="HISTORY HD*" tvg-logo="https://i.imgur.com/bYpDPqw.png" group-title="DOCUMENTÁRIOS",HISTORY HD*
 http://elitex.me:80/RaphaelRech/vo40713013s/10054555
-#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="HISTORY HDᴮᴿ" tvg-logo="https://i.imgur.com/bYpDPqw.png" group-title="DOCUMENTÁRIOS",HISTORY HDᴮᴿ
+#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="HISTORY HDᴮ" tvg-logo="https://i.imgur.com/bYpDPqw.png" group-title="DOCUMENTÁRIOS",HISTORY HDᴮᴿ
 http://elitex.me:80/RaphaelRech/vo40713013s/17119
 #EXTINF:-1 tvg-id="Historychannel.br" tvg-name="HISTORY SD" tvg-logo="https://i.imgur.com/bYpDPqw.png" group-title="DOCUMENTÁRIOS",HISTORY SD
 http://elitex.me:80/RaphaelRech/vo40713013s/111

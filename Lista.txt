@@ -3399,7 +3399,7 @@ http://elitex.me:80/RaphaelRech/vo40713013s/10072392
 http://elitex.me:80/RaphaelRech/vo40713013s/10049553
 #EXTINF:-1 tvg-id="Epg.br" tvg-name="UK SKY SPORTS GOLF" tvg-logo="" group-title="SPORTS WORLD",UK SKY SPORTS GOLF
 http://elitex.me:80/RaphaelRech/vo40713013s/10072395
-#EXTINF:-1 tvg-id="Epg.br" tvg-name="UK SKY SPORTS NEWS" tvg-logo="" group-title="SPORTS WORLD",UK SKY SPORTS NEWS
+#EXTINF:-1 tvg-id="skysp.news.hd.uk" tvg-name="UK SKY SPORTS NEWS" tvg-logo="" group-title="SPORTS WORLD",UK SKY SPORTS NEWS
 http://elitex.me:80/RaphaelRech/vo40713013s/10072394
 #EXTINF:-1 tvg-id="Epg.br" tvg-name="UK SKY SPORTS PREMIER LEAGUE" tvg-logo="" group-title="SPORTS WORLD",UK SKY SPORTS PREMIER LEAGUE
 http://elitex.me:80/RaphaelRech/vo40713013s/10072393

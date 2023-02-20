@@ -536,55 +536,55 @@ http://elitex.me:80/RaphaelRech/vo40713013s/10072384
 http://elitex.me:80/RaphaelRech/vo40713013s/10072385
 #EXTINF:-1 tvg-id="Epg.br" tvg-name="AR FOX SPORTS PREMIUM" tvg-logo="" group-title="SPORTS WORLD",AR FOX SPORTS PREMIUM
 http://elitex.me:80/RaphaelRech/vo40713013s/10072398
-#EXTINF:-1 tvg-id="Epg.br" tvg-name="CA SPORTSNET 360" tvg-logo="" group-title="SPORTS WORLD",CA SPORTSNET 360
+#EXTINF:-1 tvg-id="sportsnet.360.hdtv.(360hd).ca" tvg-name="CA SPORTSNET 360" tvg-logo="" group-title="SPORTS WORLD",CA SPORTSNET 360
 http://elitex.me:80/RaphaelRech/vo40713013s/10072382
 #EXTINF:-1 tvg-id="Epg.br" tvg-name="CA SPORTSNET ONE" tvg-logo="" group-title="SPORTS WORLD",CA SPORTSNET ONE
 http://elitex.me:80/RaphaelRech/vo40713013s/10072404
-#EXTINF:-1 tvg-id="Epg.br" tvg-name="CA TSN 1" tvg-logo="" group-title="SPORTS WORLD",CA TSN 1
+#EXTINF:-1 tvg-id="the.sports.network.hdtv.(tsnhd).ca" tvg-name="CA TSN 1" tvg-logo="" group-title="SPORTS WORLD",CA TSN 1
 http://elitex.me:80/RaphaelRech/vo40713013s/10072377
-#EXTINF:-1 tvg-id="Epg.br" tvg-name="CA TSN 2" tvg-logo="" group-title="SPORTS WORLD",CA TSN 2
+#EXTINF:-1 tvg-id="the.sports.network.2.hdtv.(tsn2hd).ca" tvg-name="CA TSN 2" tvg-logo="" group-title="SPORTS WORLD",CA TSN 2
 http://elitex.me:80/RaphaelRech/vo40713013s/10072378
-#EXTINF:-1 tvg-id="Epg.br" tvg-name="CA TSN 3" tvg-logo="" group-title="SPORTS WORLD",CA TSN 3
+#EXTINF:-1 tvg-id="the.sports.network.3.hdtv.(tsn3hd).ca" tvg-name="CA TSN 3" tvg-logo="" group-title="SPORTS WORLD",CA TSN 3
 http://elitex.me:80/RaphaelRech/vo40713013s/10072379
-#EXTINF:-1 tvg-id="Epg.br" tvg-name="CA TSN 4" tvg-logo="" group-title="SPORTS WORLD",CA TSN 4
+#EXTINF:-1 tvg-id="the.sports.network.4.hdtv.(tsn4hd).ca" tvg-name="CA TSN 4" tvg-logo="" group-title="SPORTS WORLD",CA TSN 4
 http://elitex.me:80/RaphaelRech/vo40713013s/10072380
-#EXTINF:-1 tvg-id="Epg.br" tvg-name="CA TSN 5" tvg-logo="" group-title="SPORTS WORLD",CA TSN 5
+#EXTINF:-1 tvg-id="the.sports.network.5.hdtv.(tsn5hd).ca" tvg-name="CA TSN 5" tvg-logo="" group-title="SPORTS WORLD",CA TSN 5
 http://elitex.me:80/RaphaelRech/vo40713013s/10072381
-#EXTINF:-1 tvg-id="Epg.br" tvg-name="CBS SPORTS NETWORK" tvg-logo="" group-title="SPORTS WORLD",CBS SPORTS NETWORK
+#EXTINF:-1 tvg-id="cbs.sports.network.hdtv.(cbssd).us" tvg-name="CBS SPORTS NETWORK" tvg-logo="" group-title="SPORTS WORLD",US CBS SPORTS NETWORK
 http://elitex.me:80/RaphaelRech/vo40713013s/10071998
-#EXTINF:-1 tvg-id="Epg.br" tvg-name="DE SKY SPORT 1" tvg-logo="https://i.imgur.com/fkwvp7E.png" group-title="SPORTS WORLD",DE SKY SPORT 1
+#EXTINF:-1 tvg-id="sky.sport.hd.1.de" tvg-name="DE SKY SPORT 1" tvg-logo="https://i.imgur.com/fkwvp7E.png" group-title="SPORTS WORLD",DE SKY SPORT 1
 http://elitex.me:80/RaphaelRech/vo40713013s/10049574
-#EXTINF:-1 tvg-id="Epg.br" tvg-name="DE SKY SPORT 2" tvg-logo="https://i.imgur.com/0fKgXWW.png" group-title="SPORTS WORLD",DE SKY SPORT 2
+#EXTINF:-1 tvg-id="sky.sport.hd.2.de" tvg-name="DE SKY SPORT 2" tvg-logo="https://i.imgur.com/0fKgXWW.png" group-title="SPORTS WORLD",DE SKY SPORT 2
 http://elitex.me:80/RaphaelRech/vo40713013s/10049573
-#EXTINF:-1 tvg-id="Epg.br" tvg-name="DE SKY SPORT BUDESLIGA" tvg-logo="https://i.imgur.com/ckwpIZe.png" group-title="SPORTS WORLD",DE SKY SPORT BUDESLIGA
+#EXTINF:-1 tvg-id="skysportbundesliga.de" tvg-name="DE SKY SPORT BUDESLIGA" tvg-logo="https://i.imgur.com/ckwpIZe.png" group-title="SPORTS WORLD",DE SKY SPORT BUDESLIGA
 http://elitex.me:80/RaphaelRech/vo40713013s/10049572
-#EXTINF:-1 tvg-id="Epg.br" tvg-name="ES DAZN 1" tvg-logo="https://imagedelivery.net/K4WtFS0owjUtlYoZjXt98A/5821a14a-36f4-4a45-c927-d200643f5200/public" group-title="SPORTS WORLD",ES DAZN 1
+#EXTINF:-1 tvg-id="dazn.1.es" tvg-name="ES DAZN 1" tvg-logo="https://imagedelivery.net/K4WtFS0owjUtlYoZjXt98A/5821a14a-36f4-4a45-c927-d200643f5200/public" group-title="SPORTS WORLD",ES DAZN 1
 http://elitex.me:80/RaphaelRech/vo40713013s/10071053
-#EXTINF:-1 tvg-id="Epg.br" tvg-name="ES EUROSPORT 1" tvg-logo="https://i.imgur.com/ikxIKh2.png" group-title="SPORTS WORLD",ES EUROSPORT 1
+#EXTINF:-1 tvg-id="eurosport.1.es" tvg-name="ES EUROSPORT 1" tvg-logo="https://i.imgur.com/ikxIKh2.png" group-title="SPORTS WORLD",ES EUROSPORT 1
 http://elitex.me:80/RaphaelRech/vo40713013s/10049571
-#EXTINF:-1 tvg-id="Epg.br" tvg-name="ES LALIGA 123" tvg-logo="https://i.imgur.com/U0dpYf2.png" group-title="SPORTS WORLD",ES LALIGA 123
+#EXTINF:-1 tvg-id="m.laliga.es" tvg-name="ES LALIGA 123" tvg-logo="https://i.imgur.com/U0dpYf2.png" group-title="SPORTS WORLD",ES LALIGA 123
 http://elitex.me:80/RaphaelRech/vo40713013s/10049570
-#EXTINF:-1 tvg-id="Epg.br" tvg-name="ES MOVISTAR F1" tvg-logo="" group-title="SPORTS WORLD",ES MOVISTAR F1
+#EXTINF:-1 tvg-id="m.formula1.es" tvg-name="ES MOVISTAR F1" tvg-logo="" group-title="SPORTS WORLD",ES MOVISTAR F1
 http://elitex.me:80/RaphaelRech/vo40713013s/10072388
 #EXTINF:-1 tvg-id="Epg.br" tvg-name="ES MOVISTAR FUTBOL" tvg-logo="https://i.imgur.com/9gTmjV8.png" group-title="SPORTS WORLD",ES MOVISTAR FUTBOL
 http://elitex.me:80/RaphaelRech/vo40713013s/10049568
 #EXTINF:-1 tvg-id="Epg.br" tvg-name="ES MOVISTAR LIGA DE CAMPEONES" tvg-logo="" group-title="SPORTS WORLD",ES MOVISTAR LIGA DE CAMPEONES
 http://elitex.me:80/RaphaelRech/vo40713013s/10072390
-#EXTINF:-1 tvg-id="Epg.br" tvg-name="FR CANAL+ SPORT" tvg-logo="https://i.imgur.com/HZSiIi2.png" group-title="SPORTS WORLD",FR CANAL+ SPORT
+#EXTINF:-1 tvg-id="canal+.fr" tvg-name="FR CANAL+ SPORT" tvg-logo="https://i.imgur.com/HZSiIi2.png" group-title="SPORTS WORLD",FR CANAL+ SPORT
 http://elitex.me:80/RaphaelRech/vo40713013s/10049566
-#EXTINF:-1 tvg-id="Epg.br" tvg-name="FR RMC SPORT 1" tvg-logo="https://i.imgur.com/4s2fk8a.png" group-title="SPORTS WORLD",FR RMC SPORT 1
+#EXTINF:-1 tvg-id="rmcsport1.fr" tvg-name="FR RMC SPORT 1" tvg-logo="https://i.imgur.com/4s2fk8a.png" group-title="SPORTS WORLD",FR RMC SPORT 1
 http://elitex.me:80/RaphaelRech/vo40713013s/10049565
-#EXTINF:-1 tvg-id="Epg.br" tvg-name="FR RMC SPORT 2" tvg-logo="https://i.imgur.com/DOaI5ee.png" group-title="SPORTS WORLD",FR RMC SPORT 2
+#EXTINF:-1 tvg-id="rmcsport2.fr" tvg-name="FR RMC SPORT 2" tvg-logo="https://i.imgur.com/DOaI5ee.png" group-title="SPORTS WORLD",FR RMC SPORT 2
 http://elitex.me:80/RaphaelRech/vo40713013s/10049564
-#EXTINF:-1 tvg-id="Epg.br" tvg-name="IT RAI SPORT+" tvg-logo="https://i.imgur.com/h8BwBMD.png" group-title="SPORTS WORLD",IT RAI SPORT+
+#EXTINF:-1 tvg-id="rai.sport.it" tvg-name="IT RAI SPORT+" tvg-logo="https://i.imgur.com/h8BwBMD.png" group-title="SPORTS WORLD",IT RAI SPORT+
 http://elitex.me:80/RaphaelRech/vo40713013s/10049557
-#EXTINF:-1 tvg-id="Epg.br" tvg-name="IT SKY SPORT 24" tvg-logo="" group-title="SPORTS WORLD",IT SKY SPORT 24
+#EXTINF:-1 tvg-id="sky.sport.24.it" tvg-name="IT SKY SPORT 24" tvg-logo="" group-title="SPORTS WORLD",IT SKY SPORT 24
 http://elitex.me:80/RaphaelRech/vo40713013s/10072402
-#EXTINF:-1 tvg-id="Epg.br" tvg-name="IT SKY SPORT SERIE A" tvg-logo="" group-title="SPORTS WORLD",IT SKY SPORT SERIE A
+#EXTINF:-1 tvg-id="sky sport serie a 1" tvg-name="IT SKY SPORT SERIE A" tvg-logo="" group-title="SPORTS WORLD",IT SKY SPORT SERIE A
 http://elitex.me:80/RaphaelRech/vo40713013s/10072401
-#EXTINF:-1 tvg-id="Epg.br" tvg-name="IT SKY SPORT UNO" tvg-logo="" group-title="SPORTS WORLD",IT SKY SPORT UNO
+#EXTINF:-1 tvg-id="skysportuno.it" tvg-name="IT SKY SPORT UNO" tvg-logo="" group-title="SPORTS WORLD",IT SKY SPORT UNO
 http://elitex.me:80/RaphaelRech/vo40713013s/10072400
-#EXTINF:-1 tvg-id="Epg.br" tvg-name="NBC SPORTS WASHIGTON" tvg-logo="" group-title="SPORTS WORLD",NBC SPORTS WASHIGTON
+#EXTINF:-1 tvg-id="nbc.sports.washington.(nbcswa).us" tvg-name="NBC SPORTS WASHIGTON" tvg-logo="" group-title="SPORTS WORLD",NBC SPORTS WASHIGTON
 http://elitex.me:80/RaphaelRech/vo40713013s/10071999
 #EXTINF:-1 tvg-id="eleven.sports.2.pt" tvg-name="PT ELEVEN SPORST 2 HD" tvg-logo="https://i.imgur.com/MnTV7AW.png" group-title="SPORTS WORLD",PT ELEVEN SPORST 2 HD
 http://elitex.me:80/RaphaelRech/vo40713013s/10040679
@@ -610,51 +610,51 @@ http://elitex.me:80/RaphaelRech/vo40713013s/10040682
 http://elitex.me:80/RaphaelRech/vo40713013s/10040689
 #EXTINF:-1 tvg-id="eleven.sports.6.pt" tvg-name="PT ELEVEN SPORTS 6 HD" tvg-logo="https://i.imgur.com/MazOABy.png" group-title="SPORTS WORLD",PT ELEVEN SPORTS 6 HD
 http://elitex.me:80/RaphaelRech/vo40713013s/10040683
-#EXTINF:-1 tvg-id="0" tvg-name="PT SPORT TV +" tvg-logo="https://i.imgur.com/uM0AMYX.png" group-title="SPORTS WORLD",PT SPORT TV +
+#EXTINF:-1 tvg-id="sport.tv+.hd.pt" tvg-name="PT SPORT TV +" tvg-logo="https://i.imgur.com/uM0AMYX.png" group-title="SPORTS WORLD",PT SPORT TV +
 http://elitex.me:80/RaphaelRech/vo40713013s/10040690
-#EXTINF:-1 tvg-id="Epg.br" tvg-name="PT SPORT TV 1" tvg-logo="https://i.imgur.com/QHfd5rv.png" group-title="SPORTS WORLD",PT SPORT TV 1
+#EXTINF:-1 tvg-id="sport.tv1.hd.pt" tvg-name="PT SPORT TV 1" tvg-logo="https://i.imgur.com/QHfd5rv.png" group-title="SPORTS WORLD",PT SPORT TV 1
 http://elitex.me:80/RaphaelRech/vo40713013s/10040691
-#EXTINF:-1 tvg-id="0" tvg-name="PT SPORT TV 1²" tvg-logo="https://i.imgur.com/QHfd5rv.png" group-title="SPORTS WORLD",PT SPORT TV 1²
+#EXTINF:-1 tvg-id="sport.tv1.hd.pt" tvg-name="PT SPORT TV 1²" tvg-logo="https://i.imgur.com/QHfd5rv.png" group-title="SPORTS WORLD",PT SPORT TV 1²
 http://elitex.me:80/RaphaelRech/vo40713013s/10040696
-#EXTINF:-1 tvg-id="0" tvg-name="PT SPORT TV 2" tvg-logo="https://i.imgur.com/GT2BHR7.png" group-title="SPORTS WORLD",PT SPORT TV 2
+#EXTINF:-1 tvg-id="sport.tv2.hd.pt" tvg-name="PT SPORT TV 2" tvg-logo="https://i.imgur.com/GT2BHR7.png" group-title="SPORTS WORLD",PT SPORT TV 2
 http://elitex.me:80/RaphaelRech/vo40713013s/10040692
-#EXTINF:-1 tvg-id="0" tvg-name="PT SPORT TV 2²" tvg-logo="https://i.imgur.com/GT2BHR7.png" group-title="SPORTS WORLD",PT SPORT TV 2²
+#EXTINF:-1 tvg-id="sport.tv2.hd.pt" tvg-name="PT SPORT TV 2²" tvg-logo="https://i.imgur.com/GT2BHR7.png" group-title="SPORTS WORLD",PT SPORT TV 2²
 http://elitex.me:80/RaphaelRech/vo40713013s/10040697
-#EXTINF:-1 tvg-id="0" tvg-name="PT SPORT TV 3" tvg-logo="https://i.imgur.com/1XXIHjw.png" group-title="SPORTS WORLD",PT SPORT TV 3
+#EXTINF:-1 tvg-id="sport.tv3.hd.pt" tvg-name="PT SPORT TV 3" tvg-logo="https://i.imgur.com/1XXIHjw.png" group-title="SPORTS WORLD",PT SPORT TV 3
 http://elitex.me:80/RaphaelRech/vo40713013s/10040693
-#EXTINF:-1 tvg-id="0" tvg-name="PT SPORT TV 3²" tvg-logo="https://i.imgur.com/1XXIHjw.png" group-title="SPORTS WORLD",PT SPORT TV 3²
+#EXTINF:-1 tvg-id="sport.tv3.hd.pt" tvg-name="PT SPORT TV 3²" tvg-logo="https://i.imgur.com/1XXIHjw.png" group-title="SPORTS WORLD",PT SPORT TV 3²
 http://elitex.me:80/RaphaelRech/vo40713013s/10040698
-#EXTINF:-1 tvg-id="0" tvg-name="PT SPORT TV 4" tvg-logo="https://i.imgur.com/vIS3d6F.png" group-title="SPORTS WORLD",PT SPORT TV 4
+#EXTINF:-1 tvg-id="sport.tv4.hd.pt" tvg-name="PT SPORT TV 4" tvg-logo="https://i.imgur.com/vIS3d6F.png" group-title="SPORTS WORLD",PT SPORT TV 4
 http://elitex.me:80/RaphaelRech/vo40713013s/10040694
-#EXTINF:-1 tvg-id="0" tvg-name="PT SPORT TV 4²" tvg-logo="https://i.imgur.com/vIS3d6F.png" group-title="SPORTS WORLD",PT SPORT TV 4²
+#EXTINF:-1 tvg-id="sport.tv4.hd.pt" tvg-name="PT SPORT TV 4²" tvg-logo="https://i.imgur.com/vIS3d6F.png" group-title="SPORTS WORLD",PT SPORT TV 4²
 http://elitex.me:80/RaphaelRech/vo40713013s/10040699
-#EXTINF:-1 tvg-id="0" tvg-name="PT SPORT TV 5" tvg-logo="https://i.imgur.com/slTRqBI.png" group-title="SPORTS WORLD",PT SPORT TV 5
+#EXTINF:-1 tvg-id="sport.tv5.hd.pt" tvg-name="PT SPORT TV 5" tvg-logo="https://i.imgur.com/slTRqBI.png" group-title="SPORTS WORLD",PT SPORT TV 5
 http://elitex.me:80/RaphaelRech/vo40713013s/10040695
-#EXTINF:-1 tvg-id="0" tvg-name="PT SPORT TV 5²" tvg-logo="https://i.imgur.com/slTRqBI.png" group-title="SPORTS WORLD",PT SPORT TV 5²
+#EXTINF:-1 tvg-id="sport.tv5.hd.pt" tvg-name="PT SPORT TV 5²" tvg-logo="https://i.imgur.com/slTRqBI.png" group-title="SPORTS WORLD",PT SPORT TV 5²
 http://elitex.me:80/RaphaelRech/vo40713013s/10040700
-#EXTINF:-1 tvg-id="0" tvg-name="PT SPORT TV+²" tvg-logo="https://i.imgur.com/uM0AMYX.png" group-title="SPORTS WORLD",PT SPORT TV+²
+#EXTINF:-1 tvg-id="sport.tv+.hd.pt" tvg-name="PT SPORT TV+²" tvg-logo="https://i.imgur.com/uM0AMYX.png" group-title="SPORTS WORLD",PT SPORT TV+²
 http://elitex.me:80/RaphaelRech/vo40713013s/10040701
-#EXTINF:-1 tvg-id="Epg.br" tvg-name="UK BT SPORT 1" tvg-logo="" group-title="SPORTS WORLD",UK BT SPORT 1
+#EXTINF:-1 tvg-id="bt.sport.1.uk" tvg-name="UK BT SPORT 1" tvg-logo="" group-title="SPORTS WORLD",UK BT SPORT 1
 http://elitex.me:80/RaphaelRech/vo40713013s/10072397
-#EXTINF:-1 tvg-id="Epg.br" tvg-name="UK BT SPORTS 1" tvg-logo="https://i.imgur.com/ILUX8tO.png" group-title="SPORTS WORLD",UK BT SPORTS 1
+#EXTINF:-1 tvg-id="bt.sport.1.uk" tvg-name="UK BT SPORTS 1" tvg-logo="https://i.imgur.com/ILUX8tO.png" group-title="SPORTS WORLD",UK BT SPORTS 1
 http://elitex.me:80/RaphaelRech/vo40713013s/10049556
-#EXTINF:-1 tvg-id="Epg.br" tvg-name="UK BT SPORTS 2" tvg-logo="https://i.imgur.com/A9JQUOP.png" group-title="SPORTS WORLD",UK BT SPORTS 2
+#EXTINF:-1 tvg-id="bt.sport.2.uk" tvg-name="UK BT SPORTS 2" tvg-logo="https://i.imgur.com/A9JQUOP.png" group-title="SPORTS WORLD",UK BT SPORTS 2
 http://elitex.me:80/RaphaelRech/vo40713013s/10049555
-#EXTINF:-1 tvg-id="Epg.br" tvg-name="UK SKY SPORTS F1" tvg-logo="" group-title="SPORTS WORLD",UK SKY SPORTS F1
+#EXTINF:-1 tvg-id="skysp.f1.hd.uk" tvg-name="UK SKY SPORTS F1" tvg-logo="" group-title="SPORTS WORLD",UK SKY SPORTS F1
 http://elitex.me:80/RaphaelRech/vo40713013s/10072392
-#EXTINF:-1 tvg-id="Epg.br" tvg-name="UK SKY SPORTS F1" tvg-logo="https://i.imgur.com/WaAsgTf.png" group-title="SPORTS WORLD",UK SKY SPORTS F1
+#EXTINF:-1 tvg-id="skysp.f1.hd.uk" tvg-name="UK SKY SPORTS F1" tvg-logo="https://i.imgur.com/WaAsgTf.png" group-title="SPORTS WORLD",UK SKY SPORTS F1
 http://elitex.me:80/RaphaelRech/vo40713013s/10049553
-#EXTINF:-1 tvg-id="Epg.br" tvg-name="UK SKY SPORTS PREMIER LEAGUE" tvg-logo="" group-title="SPORTS WORLD",UK SKY SPORTS PREMIER LEAGUE
+#EXTINF:-1 tvg-id="skysp.pl.hd.uk" tvg-name="UK SKY SPORTS PREMIER LEAGUE" tvg-logo="" group-title="SPORTS WORLD",UK SKY SPORTS PREMIER LEAGUE
 http://elitex.me:80/RaphaelRech/vo40713013s/10072393
-#EXTINF:-1 tvg-id="Epg.br" tvg-name="UK SKY SPORTS PREMIER LEAGUE" tvg-logo="https://i.imgur.com/Fx97wgR.png" group-title="SPORTS WORLD",UK SKY SPORTS PREMIER LEAGUE
+#EXTINF:-1 tvg-id="skysp.pl.hd.uk" tvg-name="UK SKY SPORTS PREMIER LEAGUE" tvg-logo="https://i.imgur.com/Fx97wgR.png" group-title="SPORTS WORLD",UK SKY SPORTS PREMIER LEAGUE
 http://elitex.me:80/RaphaelRech/vo40713013s/10049552
 #EXTINF:-1 tvg-id="Epg.br" tvg-name="US ABC 7 WABC NY" tvg-logo="https://i.imgur.com/GIqZPsn.png" group-title="U.S.",US ABC 7 WABC NY
 http://elitex.me:80/RaphaelRech/vo40713013s/6521
-#EXTINF:-1 tvg-id="Epg.br" tvg-name="US ABC 9 WFTV ORLANDO" tvg-logo="" group-title="U.S.",US ABC 9 WFTV ORLANDO
+#EXTINF:-1 tvg-id="abc.(wftv).orlando,.fl.us" tvg-name="US ABC 9 WFTV ORLANDO" tvg-logo="" group-title="U.S.",ABC ORLANDO WFTV
 http://elitex.me:80/RaphaelRech/vo40713013s/10072480
 #EXTINF:-1 tvg-id="Epg.br" tvg-name="US ABC WABC NEW YORK" tvg-logo="" group-title="U.S.",US ABC WABC NEW YORK
 http://elitex.me:80/RaphaelRech/vo40713013s/10071051
-#EXTINF:-1 tvg-id="Epg.br" tvg-name="US AT&AMP;T SPORTSNET" tvg-logo="" group-title="SPORTS WORLD",US AT&AMP;T SPORTSNET
+#EXTINF:-1 tvg-id="Epg.br" tvg-name="US AT&AMP;T SPORTSNET" tvg-logo="" group-title="SPORTS WORLD",AT&T SPORTSNET
 http://elitex.me:80/RaphaelRech/vo40713013s/10072410
 #EXTINF:-1 tvg-id="Epg.br" tvg-name="US BEIN SPORTS" tvg-logo="https://i.imgur.com/8HQiqw2.png" group-title="SPORTS WORLD",US BEIN SPORTS
 http://elitex.me:80/RaphaelRech/vo40713013s/10040712
@@ -670,37 +670,35 @@ http://elitex.me:80/RaphaelRech/vo40713013s/10047783
 http://elitex.me:80/RaphaelRech/vo40713013s/1841
 #EXTINF:-1 tvg-id="Epg.br" tvg-name="US ESPN2" tvg-logo="https://i.imgur.com/KUI51pB.png" group-title="SPORTS WORLD",US ESPN2
 http://elitex.me:80/RaphaelRech/vo40713013s/10047792
-#EXTINF:-1 tvg-id="Epg.br" tvg-name="US FOX 35 ORLANDO WOFL" tvg-logo="" group-title="U.S.",US FOX 35 ORLANDO WOFL
+#EXTINF:-1 tvg-id="fox.(wofl).orlando,.fl.us" tvg-name="US FOX 35 ORLANDO WOFL" tvg-logo="" group-title="U.S.",FOX ORLANDO WOFL
 http://elitex.me:80/RaphaelRech/vo40713013s/10072477
-#EXTINF:-1 tvg-id="Epg.br" tvg-name="US FOX NY WNYW" tvg-logo="https://i.imgur.com/qf8rqJa.png" group-title="U.S.",US FOX NY WNYW
+#EXTINF:-1 tvg-id="fox.(wnyw).new.york,.ny.us" tvg-name="US FOX NY WNYW" tvg-logo="https://i.imgur.com/qf8rqJa.png" group-title="U.S.",FOX NY WNYW
 http://elitex.me:80/RaphaelRech/vo40713013s/19724
-#EXTINF:-1 tvg-id="Epg.br" tvg-name="US FOX WNYW NEW YORK" tvg-logo="" group-title="U.S.",US FOX WNYW NEW YORK
+#EXTINF:-1 tvg-id="fox.(wnyw).new.york.ny.us" tvg-name="US FOX WNYW NEW YORK" tvg-logo="" group-title="U.S.",FOX NY WNYW 2
 http://elitex.me:80/RaphaelRech/vo40713013s/10071049
 #EXTINF:-1 tvg-id="Epg.br" tvg-name="US KNBC (NBC)" tvg-logo="https://i.imgur.com/pstxTJx.png" group-title="U.S.",US KNBC (NBC)
 http://elitex.me:80/RaphaelRech/vo40713013s/10047761
 #EXTINF:-1 tvg-id="Epg.br" tvg-name="US KNSD (NBC)" tvg-logo="https://i.imgur.com/pstxTJx.png" group-title="U.S.",US KNSD (NBC)
 http://elitex.me:80/RaphaelRech/vo40713013s/10047760
-#EXTINF:-1 tvg-id="Epg.br" tvg-name="US MLB NETWORK" tvg-logo="https://i.imgur.com/OL0jZLo.png" group-title="NFL-NBA-MLB",US MLB NETWORK
+#EXTINF:-1 tvg-id="mlb.network.hdtv.(dish).(mlbhd).us" tvg-name="US MLB NETWORK" tvg-logo="https://i.imgur.com/OL0jZLo.png" group-title="NFL-NBA-MLB",US MLB NETWORK
 http://elitex.me:80/RaphaelRech/vo40713013s/10047747
 #EXTINF:-1 tvg-id="Epg.br" tvg-name="US MSG" tvg-logo="" group-title="SPORTS WORLD",US MSG
 http://elitex.me:80/RaphaelRech/vo40713013s/10072407
 #EXTINF:-1 tvg-id="Epg.br" tvg-name="US MSG+" tvg-logo="" group-title="SPORTS WORLD",US MSG+
 http://elitex.me:80/RaphaelRech/vo40713013s/10072408
-#EXTINF:-1 tvg-id="Epg.br" tvg-name="US NBA TV" tvg-logo="https://i.imgur.com/ynW8fZF.png" group-title="NFL-NBA-MLB",US NBA TV
+#EXTINF:-1 tvg-id="nba.tv.hdtv.(nba.hd).us" tvg-name="US NBA TV" tvg-logo="https://i.imgur.com/ynW8fZF.png" group-title="NFL-NBA-MLB",US NBA TV
 http://elitex.me:80/RaphaelRech/vo40713013s/10045448
-#EXTINF:-1 tvg-id="NBATVHD" tvg-name="US NBA TV (HD) (S)" tvg-logo="https://imagedelivery.net/K4WtFS0owjUtlYoZjXt98A/48e00446-e9f3-4095-97cb-fb09cedfa900/public" group-title="NFL-NBA-MLB",US NBA TV (HD) (S)
-http://elitex.me:80/RaphaelRech/vo40713013s/10072264
-#EXTINF:-1 tvg-id="Epg.br" tvg-name="US NBC SPORTS BAY AREA" tvg-logo="https://i.imgur.com/5JJLERd.png" group-title="SPORTS WORLD",US NBC SPORTS BAY AREA
+#EXTINF:-1 tvg-id="nbc.sports.bay.area.(csnba).us" tvg-name="US NBC SPORTS BAY AREA" tvg-logo="https://i.imgur.com/5JJLERd.png" group-title="SPORTS WORLD",US NBC SPORTS BAY AREA
 http://elitex.me:80/RaphaelRech/vo40713013s/10045279
-#EXTINF:-1 tvg-id="Epg.br" tvg-name="US NBC SPORTS BOSTON" tvg-logo="https://i.imgur.com/5JJLERd.png" group-title="SPORTS WORLD",US NBC SPORTS BOSTON
+#EXTINF:-1 tvg-id="nbc.sports.boston.(nbcsb).us" tvg-name="US NBC SPORTS BOSTON" tvg-logo="https://i.imgur.com/5JJLERd.png" group-title="SPORTS WORLD",US NBC SPORTS BOSTON
 http://elitex.me:80/RaphaelRech/vo40713013s/10045280
-#EXTINF:-1 tvg-id="Epg.br" tvg-name="US NBC WNBC NEW YORK" tvg-logo="" group-title="U.S.",US NBC WNBC NEW YORK
+#EXTINF:-1 tvg-id="nbc.(wnbc).new.york,.ny.us" tvg-name="US NBC WNBC NEW YORK" tvg-logo="" group-title="U.S.",NBC NY WNBC
 http://elitex.me:80/RaphaelRech/vo40713013s/10071048
-#EXTINF:-1 tvg-id="Epg.br" tvg-name="US NFL NETWORK" tvg-logo="https://imagedelivery.net/K4WtFS0owjUtlYoZjXt98A/ca2d9523-e5e5-4ca9-d8ec-f2d3f35aa200/public" group-title="NFL-NBA-MLB",US NFL NETWORK
+#EXTINF:-1 tvg-id="the.nfl.network.hdtv.(nflhd).us" tvg-name="US NFL NETWORK" tvg-logo="https://imagedelivery.net/K4WtFS0owjUtlYoZjXt98A/ca2d9523-e5e5-4ca9-d8ec-f2d3f35aa200/public" group-title="NFL-NBA-MLB",US NFL NETWORK
 http://elitex.me:80/RaphaelRech/vo40713013s/10045441
-#EXTINF:-1 tvg-id="Epg.br" tvg-name="US NFL NETWORK" tvg-logo="https://imagedelivery.net/K4WtFS0owjUtlYoZjXt98A/ca2d9523-e5e5-4ca9-d8ec-f2d3f35aa200/public" group-title="NFL-NBA-MLB",US NFL NETWORK
+#EXTINF:-1 tvg-id="the.nfl.network.hdtv.(nflhd).us" tvg-name="US NFL NETWORK" tvg-logo="https://imagedelivery.net/K4WtFS0owjUtlYoZjXt98A/ca2d9523-e5e5-4ca9-d8ec-f2d3f35aa200/public" group-title="NFL-NBA-MLB",US NFL NETWORK
 http://elitex.me:80/RaphaelRech/vo40713013s/10035236
-#EXTINF:-1 tvg-id="Epg.br" tvg-name="US NFL REDZONE (D)" tvg-logo="https://imagedelivery.net/K4WtFS0owjUtlYoZjXt98A/ca2d9523-e5e5-4ca9-d8ec-f2d3f35aa200/public" group-title="NFL-NBA-MLB",US NFL REDZONE (D)
+#EXTINF:-1 tvg-id="the.nfl.redzone.hdtv.(nflrdz).us" tvg-name="US NFL REDZONE (D)" tvg-logo="https://imagedelivery.net/K4WtFS0owjUtlYoZjXt98A/ca2d9523-e5e5-4ca9-d8ec-f2d3f35aa200/public" group-title="NFL-NBA-MLB",US NFL REDZONE (D)
 http://elitex.me:80/RaphaelRech/vo40713013s/10070828
 #EXTINF:-1 tvg-id="Epg.br" tvg-name="US NFL-BROWNS FHD" tvg-logo="https://imagedelivery.net/K4WtFS0owjUtlYoZjXt98A/ca2d9523-e5e5-4ca9-d8ec-f2d3f35aa200/public" group-title="NFL-NBA-MLB",US NFL-BROWNS FHD
 http://elitex.me:80/RaphaelRech/vo40713013s/10072062
@@ -736,9 +734,9 @@ http://elitex.me:80/RaphaelRech/vo40713013s/10045391
 http://elitex.me:80/RaphaelRech/vo40713013s/10045380
 #EXTINF:-1 tvg-id="Epg.br" tvg-name="US WEATHER CHANNEL" tvg-logo="https://i.imgur.com/HAg6ukW.png" group-title="U.S.",US WEATHER CHANNEL
 http://elitex.me:80/RaphaelRech/vo40713013s/10035230
-#EXTINF:-1 tvg-id="Epg.br" tvg-name="US WESH NBC 2 ORLANDO" tvg-logo="" group-title="U.S.",US WESH NBC 2 ORLANDO
+#EXTINF:-1 tvg-id="Epg.br" tvg-name="US WESH NBC 2 ORLANDO" tvg-logo="" group-title="U.S.",NBC ORLANDO WESH
 http://elitex.me:80/RaphaelRech/vo40713013s/10072481
-#EXTINF:-1 tvg-id="Epg.br" tvg-name="US WNYW (FOX)" tvg-logo="https://i.imgur.com/gbFYAi2.png" group-title="U.S.",US WNYW (FOX)
+#EXTINF:-1 tvg-id="fox.(wnyw).new.york.ny.us" tvg-name="US WNYW (FOX)" tvg-logo="https://i.imgur.com/gbFYAi2.png" group-title="U.S.",FOX NY WNYW 3
 http://elitex.me:80/RaphaelRech/vo40713013s/10047716
 #EXTINF:-1 tvg-id="Epg.br" tvg-name="US WOGX (FOX)" tvg-logo="https://i.imgur.com/gbFYAi2.png" group-title="U.S.",US WOGX (FOX)
 http://elitex.me:80/RaphaelRech/vo40713013s/10047709
